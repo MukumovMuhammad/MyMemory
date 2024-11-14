@@ -8,6 +8,9 @@
         android:title="Refresh"
         app:showAsAction="always" />
     <item
+        android:id="@+id/mi_costom"
+        android:title="Create custom game" />
+    <item
         android:id="@+id/mi_new_size"
         android:title="Choose new size"
         app:showAsAction="never" />
